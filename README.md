@@ -1,7 +1,8 @@
 # Code-Model-Verifier
-## 1) ANSI Frama C
 
 <p align="center"><img src="https://user-images.githubusercontent.com/41234408/101987297-4473fb00-3cb9-11eb-9675-289ada4eef7e.gif" alt="Animated footer bars" width="100%"/></a></p> 
+
+## 1) ANSI Frama C
 
 ![Frama-C](https://raw.githubusercontent.com/Frama-C/Frama-C-snapshot/master/share/frama-c.png?raw=true)
 
