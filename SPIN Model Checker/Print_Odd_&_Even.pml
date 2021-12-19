@@ -7,7 +7,7 @@ proctype Odd()
         :: else -> break
         fi
      :: if
-        :: (i%2!=0) -> printf("%d",i);
+        :: (i%2!=0) -> printf("%d\n",i);
         :: else -> skip
         fi
      od
@@ -21,7 +21,7 @@ proctype Even()
         :: else -> break
         fi
      :: if
-        :: (i%2==0) -> printf("%d",i);
+        :: (i%2==0) -> printf("%d\n",i);
         :: else -> skip
         fi
      od
