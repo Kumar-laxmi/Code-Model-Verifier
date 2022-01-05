@@ -142,7 +142,7 @@ via the GUI:
   contains the .tar.gz archives of stable Frama-C releases, ready to be cloned.
   It can also be used for reporting issues and submitting pull requests.
 
-## ----------------------------------------------------------------------------------------
+## -------------------------------------------------------------------------------------
 ## 2) Spin Model Checker
 #### An Efficient Logic Model Checker for the Verification of Multi-threaded Code
 
